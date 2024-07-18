@@ -1,0 +1,15 @@
+{
+  "name": "1st-nodejsproject",
+  "version": "1.0.0",
+  "description": "Objetivos\r Configurar un entorno de desarrollo Node.js.\r Crear un servidor web utilizando Node.js y Express.\r Implementar rutas y middlewares en Express.\r Leer y escribir datos en el sistema de archivos utilizando el módulo fs.\r Manejar errores y asegurar la API con middlewares.\r Descripción del Proyecto\r Crearás una API RESTful para gestionar una lista de tareas (To-Do List). Las tareas se almacenarán en un archivo JSON en el sistema de archivos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
